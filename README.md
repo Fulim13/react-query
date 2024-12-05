@@ -1,3 +1,5 @@
+This project is my study on react-query
+
 ## Getting Started
 
 To get started, follow these steps:
